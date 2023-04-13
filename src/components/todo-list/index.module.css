@@ -1,0 +1,16 @@
+.list {
+  margin-top: 1rem;
+  text-align: left;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  gap: 10px;
+
+}
+
